@@ -1,0 +1,44 @@
+div{
+    width: 50%;
+    height: 150px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+button{
+    width: 35%;
+height: 100px;
+background-color: darkgray;
+color: white;
+font-size: 30px;
+}
+h1{
+    text-align: center;
+}
+
+#first{
+    background-color: green;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#second{
+    background-color: purple;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#third{
+    background-color: green;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fourth{
+    background-color: purple;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
